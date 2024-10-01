@@ -2,7 +2,7 @@
 
 저는 **김강민**입니다. **정보 보호 분야**를 목표로 학습 중입니다!
 
-I am Kangmin Kim, currently studying with the goal of pursuing a career in information security!
+###### I am Kangmin Kim, currently studying with the goal of pursuing a career in information security!
 ---
 
 ## 🚀 기술 스택(tech stack)
