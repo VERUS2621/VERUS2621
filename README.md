@@ -53,6 +53,6 @@
 ## ✨ 기타(etc.)
 - 공군 정보보호병 복무 예정(Air force CERT) (2024-11-18 ~ 2026-08-17)
 - **My favorite musician**: 星街すいせい (Hoshimachi Suisei)
-- **좋아하는 것(favorite thing)**: 게임, 책 읽기, 자기개발, J-pop, 덕질, 애니메이션, 여행
+- **좋아하는 것(favorite things)**: 게임, 책 읽기, 자기개발, J-pop, 덕질, 애니메이션, 여행
 
 ---
