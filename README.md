@@ -39,8 +39,7 @@
 ---
 
 ## 🌱 배우고 있는 것 (What I’m Learning)
-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
 - ![Network (CCNA)](https://img.shields.io/badge/-Network_(CCNA)-blue?style=flat-square&logo=cisco&logoColor=white)
 - ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 - ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
