@@ -30,11 +30,6 @@
 ---
 
 ## 📚 프로젝트(project)
-- **[자료구조 & 알고리즘](https://github.com/VERUS2621/Data-Structure-Algorithm-kr-)** 
-  - 설명: 자료구조 & 알고리즘 기반으로 웹사이트 제작 예정.
-  
-- **[C++ 프로젝트](https://github.com/VERUS2621/Cpp)** 
-  - 설명: C++ 도서 참고하여 깃허브 제작 중.
 
 ---
 
